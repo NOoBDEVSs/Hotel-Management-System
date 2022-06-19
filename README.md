@@ -1,2 +1,2 @@
-# Hotel-Management-System
-Full Stack Web Application using Java Server Pages.
+# JSP-Pages-Skeleton
+Full Stack Web Application using Java Server Pages (skeleton files).
